@@ -2,7 +2,7 @@
 
 **Developed by S.H. Crow**
 
-![Tool Demo](Screenshot From 2025-11-26 20-25-01.png) 
+![Tool Demo](Screenshot_From_2025-11-26 20-25-01.png) 
 
 
 An automated cybersecurity tool that leverages the **Gemini 2.5 Flash** multimodal model to analyze suspicious emails. It performs OCR, brand logo matching, and linguistic threat analysis to assign a "Phishing Confidence Score" to any screenshot.
